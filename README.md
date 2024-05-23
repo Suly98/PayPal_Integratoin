@@ -63,4 +63,4 @@ Contributions to the ABC Online Banking - PayPal Payment Gateway Integration pro
 
   
 ## License
-This project is licensed under the MIT License - see the LICENSE file for details
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/Suly98/PayPal_Integratoin/blob/main/LICENSE) file for details
